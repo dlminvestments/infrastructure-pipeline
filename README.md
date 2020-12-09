@@ -46,3 +46,5 @@ in AWS. It securely retrieves secrets from HashiCorp Vault.
 
 1. The demo uses HashiCorp Cloud Platform. You can substitute the Vault endpoint
    with your own Vault instance, as long as it can connect to AWS.
+   
+   [![Build Status](https://dev.azure.com/VM-1Systems/VM-1%20Systems/_apis/build/status/dlminvestments.infrastructure-pipeline?branchName=azure-pipelines)](https://dev.azure.com/VM-1Systems/VM-1%20Systems/_build/latest?definitionId=20&branchName=azure-pipelines)
