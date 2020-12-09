@@ -48,3 +48,5 @@ in AWS. It securely retrieves secrets from HashiCorp Vault.
    with your own Vault instance, as long as it can connect to AWS.
    
    [![Build Status](https://dev.azure.com/VM-1Systems/VM-1%20Systems/_apis/build/status/dlminvestments.infrastructure-pipeline?branchName=azure-pipelines)](https://dev.azure.com/VM-1Systems/VM-1%20Systems/_build/latest?definitionId=20&branchName=azure-pipelines)
+
+[![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/dlminvestments/infrastructure-pipeline/cis_kubernetes)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=dlminvestments%2Finfrastructure-pipeline&benchmark=CIS+KUBERNETES+V1.5)
