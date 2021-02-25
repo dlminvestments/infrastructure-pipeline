@@ -1,5 +1,8 @@
 # An Example Infrastructure Pipeline
 
+[![vault enterprise](https://img.shields.io/badge/vault-enterprise-yellow.svg?colorB=7c8797&colorA=000000)](https://www.hashicorp.com/products/vault/?utm_source=github&utm_medium=banner&utm_campaign=github-vault-enterprise)
+
+
 This example uses:
 
 - Amazon Web Services
